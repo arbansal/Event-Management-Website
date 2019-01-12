@@ -1,6 +1,7 @@
 # ItsHappening
+An event management website which allows users to explore and buy tickets for events happening in and around Bloomington, and an organizer to promote events and sell tickets through us, built using agile methodologies
 
-## Members
+## Team Members
 
 * Bansal, Arpit
 * Bhatnagar, Arpit
